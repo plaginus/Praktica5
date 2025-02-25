@@ -1,7 +1,5 @@
 ﻿using System;
 
-namespace Pr1;
-
 class Program
 {
     static void Main() 
